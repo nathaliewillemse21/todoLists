@@ -1,0 +1,55 @@
+    body {
+            font-family: Anton;
+            margin: 20px;
+            text-align: center;
+            background-color: #4a3e3e;
+           
+
+        }
+    .barrier{
+        border-style:dotted ;
+        height: 500px;
+    
+    }
+    
+    
+    h1 {
+         display:flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    
+    .container{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #sort {
+         margin: 5px;
+       padding: 5px; 
+    }
+  #add{
+      margin: 5px;
+       padding: 5px; 
+    }
+
+
+
+    input [type="text"]{
+       margin:5px;
+       padding: 5px;
+       height: 20px; 
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
